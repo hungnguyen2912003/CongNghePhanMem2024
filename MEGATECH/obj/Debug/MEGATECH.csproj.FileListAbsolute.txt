@@ -533,4 +533,4 @@ E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.csproj.GenerateResource.cache
 E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.csproj.CoreCompileInputs.cache
 E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.dll
 E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.pdb
-E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.csproj.CopyComplete
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.csproj.Up2Date
