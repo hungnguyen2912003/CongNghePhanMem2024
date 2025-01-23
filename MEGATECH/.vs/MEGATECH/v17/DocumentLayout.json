@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:models\\megatechdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|d:\\projects\\congnghephanmem2024\\megatech\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|D:\\Projects\\CongNghePhanMem2024\\MEGATECH\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 922,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -49,10 +53,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-08-13T15:38:02.612Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",

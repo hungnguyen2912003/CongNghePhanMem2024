@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\Projects\\CongNghePhanMem2024\\MEGATECH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|d:\\projects\\congnghephanmem2024\\megatech\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|d:\\projects\\congnghephanmem2024\\megatech\\models\\megatechdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:models\\megatechdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|D:\\Projects\\CongNghePhanMem2024\\MEGATECH\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -18,11 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 922,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MEGATECHDBContext.cs",
+              "DocumentMoniker": "D:\\Projects\\CongNghePhanMem2024\\MEGATECH\\Models\\MEGATECHDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\MEGATECHDBContext.cs",
+              "ToolTip": "D:\\Projects\\CongNghePhanMem2024\\MEGATECH\\Models\\MEGATECHDBContext.cs",
+              "RelativeToolTip": "Models\\MEGATECHDBContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:19:20.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\Projects\\CongNghePhanMem2024\\MEGATECH\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -34,12 +55,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Projects\\CongNghePhanMem2024\\MEGATECH\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Statistical\\Index.cshtml",
