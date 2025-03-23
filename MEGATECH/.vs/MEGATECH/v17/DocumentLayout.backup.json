@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 922,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhanVien\\Create.cshtml",
               "ToolTip": "D:\\Projects\\CongNghePhanMem2024\\MEGATECH\\Areas\\Admin\\Views\\NhanVien\\Create.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\NhanVien\\Create.cshtml",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAAALYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-19T12:36:26.602Z",
               "EditorCaption": ""
